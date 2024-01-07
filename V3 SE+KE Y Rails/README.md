@@ -1,1 +1,61 @@
+#  Ender 3 V3 SE & KE Y Rails Conversion
+
+## INTRODUCTION
+The Ender 3 V3 SE & KE are great machines but the bed is a problem in my opinion.. specially in the KE when it is capable of printing at up to 500mm/s. The factory bed has a lot of play and flex. From the front post, to the linear bearing housings, and the bed frame, it all adds up.
+
+I have made two versions of this mod. One for MGN9H rails and MGN12H rails. I recommend using MGN12H.. but its up to you. 
+
+For those installing the rails in the SE, you might need to print the alternate rail adapter. The main plate could hit the rear post before activating the endstop switch.
+
+
+
+## IMPORTANT
+1. Consider this a WORK IN PROGRESS
+2. You are downloading/installing this mod willingly
+3. We are not responsible for any damage caused
+
+
+## BOM
+
+- MGN9H or MGN12H rails (300mm length - I used cheap Amazon rails and work fine)
+- M3x3x5mm heat inserts
+- x2 - M3x14mm screws (front mount - stepper)
+- x2 - M3x20mm screws (front mount - stepper)
+- x16 - M3x8mm SHCS screws (linear rails - x20 for MGN9H)
+- x4 - M4x20mm screws (rear mount - ONLY USE 20MM SCREWS)
+- X8 - M3x6mm BHCS screws (rail carriage)
+- x6 - M3x8mm BHCS screws (bed frame)
+- x2 - M3x10mm screws (bed frame)
+
+
+
+## LAST UPDATED: Dec 26, 2023
+
+
+## PRINT SETTINGS
+- 4+ walls/top/bottom
+- 45%+ infill
+- 0.2 layer height
+- PLA
+
+
+## USEFUL LINKS
+
+
+## INSTRUCTIONS
+Installation is not too complicated. You might need to remove the bottom panel to hold the power supply while you install the rear mount. 
+
+1. Remove bed and disconnect the prtouch harness carefully
+2. Remove linear rods. Two screws in the rear 
+3. The rear mount is a two-piece. Snap them together
+4. Place heat inserts as shown in the pictures (1)
+5. Install the mounts and rails as shown in the pictures(2)
+6. Install the rail/bed frame adapter thingies. A-left, B-right (3)
+7. Install the bed frame and use the factory 2mm self tappers to mount the prtouch PCB (4)
+8. With the belt off, make sure there is no binding in the rails. If there is any resistance, loosen the four screws on the right side of the bed frame to release any tension and retighten 
+9. Install the belt then the bed itself (don't forget the prtouch harness)
+10. You're done
+
+
+
 
