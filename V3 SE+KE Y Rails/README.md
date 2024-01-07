@@ -2,6 +2,7 @@
 ![20231225_195841](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/e00b8607-c6c4-4dff-ac02-9022fbbded9d)
 
 ## INTRODUCTION
+
 The Ender 3 V3 SE & KE are great machines but the bed is a problem in my opinion.. specially in the KE when it is capable of printing at up to 500mm/s. The factory bed has a lot of play and flex. From the front post, to the linear bearing housings, and the bed frame, it all adds up.
 
 I have made two versions of this mod. One for MGN9H rails and MGN12H rails. I recommend using MGN12H.. but its up to you. 
@@ -11,6 +12,7 @@ For those installing the rails in the SE, you might need to print the alternate 
 
 
 ## IMPORTANT
+
 1. Consider this a WORK IN PROGRESS
 2. You are downloading/installing this mod willingly
 3. We are not responsible for any damage caused
@@ -34,6 +36,7 @@ For those installing the rails in the SE, you might need to print the alternate 
 
 
 ## PRINT SETTINGS
+
 - 4+ walls/top/bottom
 - 45%+ infill
 - 0.2 layer height
@@ -42,8 +45,13 @@ For those installing the rails in the SE, you might need to print the alternate 
 
 ## USEFUL LINKS
 
+[D3vil Design Team Discord](https://discord.gg/d3vil-design)
+
+[How to use heat inserts](https://ultimaker.com/learn/how-to-use-heat-set-inserts-to-securely-fasten-3d-printed-parts/)
+
 
 ## INSTRUCTIONS
+
 Installation is not too complicated. You might need to remove the bottom panel to hold the power supply while you install the rear mount. 
 
 1. Remove bed and disconnect the prtouch harness carefully
@@ -57,6 +65,11 @@ Installation is not too complicated. You might need to remove the bottom panel t
 9. Install the belt then the bed itself (don't forget the prtouch harness)
 10. You're done
 
+![20231225_174854](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/56b21f92-19fe-49c1-8082-f26fc642abbe)
+![20231225_180129](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/d81acc89-69f6-46dc-83c2-7b39cda27031)
+![20231225_180412](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/f46829b6-bc0b-4c5d-bbbe-4b028b9d4ba9)
+![20231225_182014](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/9e0d2630-326d-4484-9ad2-bec86043270b)
+![20231225_1958141](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/3d72212e-db79-4c40-aa35-92bcc32342e9)
 
 
 
