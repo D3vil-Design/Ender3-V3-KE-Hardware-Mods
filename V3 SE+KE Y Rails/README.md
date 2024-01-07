@@ -21,7 +21,7 @@ Also consider joining our [Discord](https://discord.gg/d3vil-design)
 1. Consider this a WORK IN PROGRESS
 2. You are downloading/installing this mod willingly
 3. We are not responsible for any damage caused
-
+4. DO NOT USE SCREWS LONGER THAN 20MM FOR THE REAR MOUNTS. These use the power supply for mounting. Longer screws can damage the power supply
 
 
 ## BOM
