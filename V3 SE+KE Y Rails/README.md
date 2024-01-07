@@ -1,5 +1,6 @@
 #  Ender 3 V3 SE & KE Y Rails Conversion
-![20231225_195841](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/e00b8607-c6c4-4dff-ac02-9022fbbded9d)
+![20231225_1958141](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/19c17aea-6d5a-4a31-b0b7-f6f75f979cae)
+
 
 ## INTRODUCTION
 
@@ -69,7 +70,8 @@ Installation is not too complicated. You might need to remove the bottom panel t
 ![20231225_180129](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/d81acc89-69f6-46dc-83c2-7b39cda27031)
 ![20231225_180412](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/f46829b6-bc0b-4c5d-bbbe-4b028b9d4ba9)
 ![20231225_182014](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/9e0d2630-326d-4484-9ad2-bec86043270b)
-![20231225_1958141](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/3d72212e-db79-4c40-aa35-92bcc32342e9)
+![20231225_195841](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/4afaf34e-f99f-4a2d-b4ee-d49d5d92eca8)
+
 
 
 
