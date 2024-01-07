@@ -1,4 +1,5 @@
 #  Ender 3 V3 SE & KE Y Rails Conversion
+![20231225_195841](https://github.com/D3vil-Design/Ender3-V3-KE-Hardware-Mods/assets/145330457/e00b8607-c6c4-4dff-ac02-9022fbbded9d)
 
 ## INTRODUCTION
 The Ender 3 V3 SE & KE are great machines but the bed is a problem in my opinion.. specially in the KE when it is capable of printing at up to 500mm/s. The factory bed has a lot of play and flex. From the front post, to the linear bearing housings, and the bed frame, it all adds up.
