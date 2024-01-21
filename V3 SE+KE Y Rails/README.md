@@ -62,7 +62,7 @@ Installation is not too complicated. You might need to remove the bottom panel t
 
 1. Remove bed and disconnect the prtouch harness carefully
 2. Remove linear rods. Two screws in the rear 
-3. The rear mount is a two-piece. Snap them together
+3. The rear mount is a two-piece (spacer). Snap them together
 4. Place heat inserts as shown in the pictures (1)
 5. Install the mounts and rails as shown in the pictures(2)
 6. Install the rail/bed frame adapter thingies. A-left, B-right (3)
